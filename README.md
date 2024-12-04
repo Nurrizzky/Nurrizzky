@@ -39,9 +39,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/muhammad-nur-rizky/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="nurrizkyr90@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://www.instagram.com/nurrizkky.v/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
@@ -83,14 +80,14 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurrizzky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nurrizzky&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="160" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurrizzky&radius=4&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="280" alt="activity-graph graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nurrizzky&radius=4&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="280" alt="activity-graph graph"  />
 </div>
 
 ###
