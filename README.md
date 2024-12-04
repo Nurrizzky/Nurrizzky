@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello 👋 I'm Junior Web Developer</h1>
+<h1 align="center">Hello There 👋 I'm Junior Web Developer</h1>
 
 ###
 
