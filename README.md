@@ -1,22 +1,36 @@
-<h1 align="left"> Hello World! </> </h1>
+<br clear="both">
+
+<h1 align="center">Welcome to My Profile. 👋</h1>
 
 ###
 
-<br>
+<br clear="both">
 
-<img align="right" height="200" clear="both" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif"  />
-
-###
-
-<p align="left">Hello 👋, my name is Muhammad Nur Rizky I'm from Bogor, jawa barat, Indonesia.<br>I'm Junior Web Developer👨‍💻</p>
+<img align="right" height="230" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif"  />
 
 ###
 
-<h2 align="left">👨‍💻About Me</h2>
+<p align="left">Hello 👋, my name is Muhammad Nur Rizky I'm from Indonesia.<br><br>I'm Junior Web Developer👨‍💻</p>
+
+###
+
+<h4 align="left">👨‍💻About Me</h4>
 
 ###
 
 <p align="left">📚 I'am student at Wikrama vocational High School.<br>🌱 I'm currently learning React.js<br>🎯 Goals: Software Engineer.</p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
 
 ###
 
@@ -74,6 +88,14 @@
   <a href="nurrizkyr90@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nurrizzky&radius=16&theme=one-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
