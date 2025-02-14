@@ -1,10 +1,10 @@
-<h1 align="left"><h1> Hello World! </h1></h1>
+<h1 align="left"> Hello World! </> </h1>
 
 ###
 
-<br clear="both">
+<br>
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif"  />
+<img align="right" height="200" clear="both" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif"  />
 
 ###
 
