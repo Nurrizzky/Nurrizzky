@@ -14,17 +14,11 @@
 
 ###
 
-<h4 align="left">👨‍💻About Me</h4>
+<h4 align="left">👨‍💻 About Me</h4>
 
 ###
 
 <p align="left">📚 I'am student at Wikrama vocational High School.<br>🌱 I'm currently learning React.js<br>🎯 Goals: Software Engineer.</p>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
 
 ###
 
