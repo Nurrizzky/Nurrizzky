@@ -30,12 +30,6 @@
 
 <br clear="both">
 
-<p align="left"></p>
-
-###
-
-<br clear="both">
-
 <h2 align="left">💻Tech Stack</h2>
 
 ###
