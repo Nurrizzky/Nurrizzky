@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello 👋, my name is Muhammad Nur Rizky I'm from Indonesia.<br><br>I'm Junior Web Developer👨‍💻</p>
+<p align="left">Hello 👋, my name is Muhammad Nur Rizky I'm from Indonesia.</p>
 
 ###
 
@@ -24,12 +24,11 @@
 
 <br clear="both">
 
-<h2 align="left">💻Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
 
 ###
 
-<div align="left">
-  <div align="left">  
+<div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -38,7 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  </div> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -65,7 +63,7 @@
 
 ###
 
-<h2 align="left">🪐Social Media</h2>
+<h2 align="left">Social Media</h2>
 
 ###
 
