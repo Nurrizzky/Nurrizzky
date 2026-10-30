@@ -66,11 +66,3 @@
 <br clear="both">
 
 ###
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nurrizzky&radius=20&theme=material&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
